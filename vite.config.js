@@ -9,5 +9,5 @@ export default defineConfig({
     tailwindcss()
   ],
   // Base path for GitHub Pages deployment: https://<username>.github.io/<repo-name>/
-  base: "/SurveySparrowCalenderEvent/"
+  base: "/CalanderEvent"
 })
